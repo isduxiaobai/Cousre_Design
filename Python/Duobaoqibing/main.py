@@ -264,3 +264,5 @@ while True:
     #刷新屏幕
     pygame.display.update()
     pygame.time.delay(10)
+
+    
