@@ -179,3 +179,5 @@ while True:
             score = 0
             text1 = font.render(str(score), True, (255, 255, 255))
     pygame.display.update()
+
+    
