@@ -18,7 +18,6 @@
     如果安装失败请尝试更换pip源为国内源
 4.解压项目，启动main.py
 
-
 #### 游戏截图
 [![4VaQVf.png](https://z3.ax1x.com/2021/09/15/4VaQVf.png)](https://imgtu.com/i/4VaQVf)
 
