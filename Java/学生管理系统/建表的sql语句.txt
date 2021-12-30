@@ -1,0 +1,13 @@
+create table student(
+no varchar(10) not null,
+name varchar(50) not null,
+class_no varchar(2) not null,
+chinese double(3,1) not null,
+math double(3,1) not null,
+english double(3,1) not null,
+primary key(no));
+
+insert into student(no,name,class_no,chinese,math,english) values(01,'³ÂÀö·¼',1,66,77,88);
+insert into student(no,name,class_no,chinese,math,english) values(02,'ÀîÀö',1,80,97,50);
+insert into student(no,name,class_no,chinese,math,english) values(03,'ÍõºãÁÁ',2,70,72,82);
+insert into student(no,name,class_no,chinese,math,english) values(04,'ÕÅÕğ',2,45,68,90);
