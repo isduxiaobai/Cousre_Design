@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable touxiang
+id btn_login
+id btn_newUser
+id btn_no_login
+id cb_checked
+id et_qq_number
+id et_qq_psw
+id iv_icon
+id root
+id shang
+id tv_qq
+id xia
+id zhong
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.QQLogin
